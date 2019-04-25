@@ -1,0 +1,6 @@
+Carl Cracker
+75000.0
+Harry Hacker
+50000.0
+Tony Tester
+40000.0
